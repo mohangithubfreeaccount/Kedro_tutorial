@@ -4,7 +4,7 @@ This folder should be used to store configuration files used by Kedro or by sepa
 
 This file can be used to provide users with instructions for how to reproduce local configuration with their own credentials. You can edit the file however you like, but you may wish to retain the information below and add your own section in the [Instructions](#Instructions) section.
 
-## Local configuration
+## Local configuration this is a test to github
 
 The `local` folder should be used for configuration that is either user-specific (e.g. IDE configuration) or protected (e.g. security keys).
 
